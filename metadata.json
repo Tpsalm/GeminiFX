@@ -1,0 +1,5 @@
+{
+  "name": "GeminiFX Pro: AI Trading Suite",
+  "description": "A high-performance Forex trading analysis dashboard and signal generator powered by Gemini 3 Pro. It features real-time simulated price action, technical indicators, and an AI-driven trade logic engine with MQL5 integration templates.",
+  "requestFramePermissions": []
+}
